@@ -2,6 +2,6 @@
 using namespace std;
 int main(void)
 {
-	std::cout << " fuck ref3at " << std::endl;
+	std::cout << "Yo man duck duck dweek" << std::endl;
 	return 0;
 }
